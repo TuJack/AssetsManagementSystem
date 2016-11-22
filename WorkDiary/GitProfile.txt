@@ -1,0 +1,2 @@
+Bitbucket address : https://Jack_tu@bitbucket.org/Jack_tu/assetsmanagementsystem.git
+Github address : https://github.com/TuJack/AssetsManagementSystem.git
